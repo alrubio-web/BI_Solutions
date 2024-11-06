@@ -1,0 +1,27 @@
+• Observe market capitalization and liquidity
+	• Insight: In the Dashboard, you can see which cryptocurrencies have the highest market capitalization and transaction volume. High-cap cryptocurrencies are usually less volatile and therefore less risky. However, they may have already reached a high level of maturity, which could limit their growth.
+	• Strategy: For a small investor seeking stability, allocating a percentage of capital to these "blue-chip" cryptocurrencies (like Bitcoin or Ethereum) can help balance risk. However, you should also reserve part of the portfolio for smaller-cap assets with significant volumes, as they have greater growth potential.
+• Consider circulating supply vs total supply
+	• Insight: In the “General Aspects” section, by comparing the circulating supply with the total supply and max supply, you can identify which cryptocurrencies still have a significant supply yet to be issued. This indicates potential future dilution, which may affect the cryptocurrency's value.
+	• Strategy: Prioritize cryptocurrencies with low remaining supply (close to their max supply). This reduces dilution risk, as the supply impact on demand is mostly established.
+• Analyze the all-time high (ATH) and all-time low (ATL)
+	• Insight: The “Activity” sections and the ATH and ATL analysis provide insight into volatility and recovery potential. Cryptocurrencies that have recently reached or surpassed their ATH may be in an uptrend, while those that have dropped significantly from their ATH may offer a buying opportunity.
+	• Strategy: Evaluate the distance between the current price and the ATH. If the current price is significantly below the ATH and the cryptocurrency has a good transaction volume, this could indicate a buying opportunity, anticipating a possible recovery. However, it is essential to analyze the reasons for the decline and the market context.
+• Leverage daily volatility for trading opportunities
+	• Insight: In the "Last 30 Days" section, the analysis of daily closing price changes shows cryptocurrencies with high volatility in recent weeks. These percentage changes can indicate short-term trading opportunities.
+	• Strategy: For investors willing to trade daily or weekly, focus on cryptocurrencies with high daily volatility. You can take advantage of these fluctuations by buying on dips and selling on rallies. However, this strategy requires constant monitoring and careful risk management.
+• Monitor Bitcoin’s price evolution
+	• Insight: Bitcoin remains the benchmark in the cryptocurrency market. Its long-term analysis provides insights into the general market trend.
+	• Strategy: Use Bitcoin analysis as a guide for the overall market behavior. If Bitcoin shows long-term bullish signals, it is likely that the rest of the market will follow this trend. This can be helpful to anticipate growth periods and adjust your portfolio towards riskier cryptocurrencies when the market is optimistic.
+• Filter out cryptocurrencies without significant value
+	• Insight: In the report, you observed cryptocurrencies like pepe with a zero value over the last 7 days and a high issuance. This suggests low activity or relevance in the current market.
+	• Strategy: Filter out cryptocurrencies with low or zero values and low transaction volumes, as they may be inactive projects or have low market interest. Focus on cryptocurrencies with consistent metrics and transaction volumes that show active market interest.
+• Use Meme Coins with caution
+	• Insight: Meme Coins like dogecoin or shiba-inu tend to be highly volatile and heavily dependent on social interest or specific events.
+	• Strategy: If you decide to include Meme Coins, ensure they represent a small portion of your portfolio. These coins can offer high short-term returns but also come with high risks. Investing in them only during bullish market phases may increase return probabilities, but it’s always advisable to limit exposure.
+• Use predictive analysis tools
+	• Insight: In the “Quotation and Projections” section, you can use predictive techniques such as ARIMA to visualize the future behavior of key indicators like market cap or current price.
+	• Strategy: Use projections to assess short- and medium-term trends. If a cryptocurrency shows a positive growth forecast based on historical data, it may be a good sign for a temporary investment. However, combine these predictions with other fundamental and technical analysis factors to reduce risk.
+
+Disclaimer:
+The investment strategies mentioned are based on the analysis of the provided report. It is important to note that the cryptocurrency market is highly speculative, and prices can fluctuate significantly. Consulting a financial advisor is recommended before making any investment decisions.
