@@ -10,3 +10,7 @@ Click OK to save your changes.
 Disclaimer: Changing privacy levels may expose sensitive data if you are working with confidential information. Use this setting only if it aligns with your data security and privacy policies.
 
 Alternatively, you can adjust the privacy level settings for individual data sources in Data Source Settings under the Home tab in Power Query, setting them to Public where possible and appropriate.
+
+Data Sources
+https://api.coingecko.com
+https://min-api.cryptocompare.com
