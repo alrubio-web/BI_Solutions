@@ -1,0 +1,12 @@
+Important Notice: Privacy Level Settings in Power BI Desktop
+When downloading and refreshing this report in Power BI Desktop, you may encounter a Formula.Firewall error. This is due to Power BI’s privacy level settings, which restrict combining data from different sources for security reasons.
+
+To resolve this issue, you’ll need to adjust the Data Privacy settings in Power BI Desktop. Follow these steps:
+
+Go to File > Options and settings > Options.
+In the left-hand menu, select Privacy under the Global section.
+Set Privacy Level to Ignore the Privacy Levels and Potentially Improve Performance.
+Click OK to save your changes.
+Disclaimer: Changing privacy levels may expose sensitive data if you are working with confidential information. Use this setting only if it aligns with your data security and privacy policies.
+
+Alternatively, you can adjust the privacy level settings for individual data sources in Data Source Settings under the Home tab in Power Query, setting them to Public where possible and appropriate.
