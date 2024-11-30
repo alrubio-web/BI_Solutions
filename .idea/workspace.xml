@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec959ddb-0aad-4ebe-ac8c-e6e42edf55b1" name="Changes" comment="Update info Crypto">
+      <change beforePath="$PROJECT_DIR$/Crypto/Crypto Analysis Report.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/Crypto Analysis Report.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crypto/Crypto Analysis.pbix" beforeDir="false" afterPath="$PROJECT_DIR$/Crypto/Crypto Analysis.pbix" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alrubio-web&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alrubio-web/BI_Solutions.git&quot;,
+    &quot;accountId&quot;: &quot;be74b8ad-c264-4ec4-a95f-e6248ff126d4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oUk5M76Kq8FBf7LMr9lx81rqCn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "development",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec959ddb-0aad-4ebe-ac8c-e6e42edf55b1" name="Changes" comment="" />
+      <created>1730931358425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730931358425</updated>
+      <workItem from="1730931360703" duration="2641000" />
+      <workItem from="1731052590808" duration="4724000" />
+      <workItem from="1731145776468" duration="4584000" />
+      <workItem from="1731756147519" duration="3217000" />
+      <workItem from="1732961832942" duration="392000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cambios de maquetación y actualización nuevo pdf">
+      <option name="closed" value="true" />
+      <created>1730933340221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730933340221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cambios de maquetación y actualización nuevo pdf">
+      <option name="closed" value="true" />
+      <created>1730933470259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730933470259</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Agregamos directorio &quot;Model&quot; con detalles de la estructura de datos del reporte">
+      <option name="closed" value="true" />
+      <created>1730934371200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730934371200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1731087469647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731087469647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1731145881751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731145881751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1731756163084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731756163084</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1731756674742</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731756674742</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1732961886916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732961886916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update info Crypto">
+      <option name="closed" value="true" />
+      <created>1732962017646</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732962017646</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambios de maquetación y actualización nuevo pdf" />
+    <MESSAGE value="Agregamos directorio &quot;Model&quot; con detalles de la estructura de datos del reporte" />
+    <MESSAGE value="Update info Crypto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update info Crypto" />
+  </component>
+</project>
