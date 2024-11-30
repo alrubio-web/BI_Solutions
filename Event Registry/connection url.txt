@@ -1,1 +1,0 @@
-https://api.gdeltproject.org/api/v2/doc/doc?query=(elecciones+OR+conflictos+bélicos)&mode=artlist&maxrecords=100&format=json
