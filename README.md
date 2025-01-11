@@ -4,6 +4,8 @@ Power BI Files (.pbix): Interactive Power BI files for each report, allowing you
 
 PDF Reports: Printable versions of each Power BI report, capturing key visuals and insights in a static format.
 
+PowerPoint Files (.pptx): Interactive PowerPoint versions with access to Power BI reports.
+
 Project Descriptions: Detailed descriptions of each report, including objectives, main insights, data sources, and analysis methods used.
 
 Purpose
